@@ -1,27 +1,23 @@
 # 一次性搞定 Iconfont
 
-<!-- TOC -->
-
 - [一次性搞定 IconFont](#一次性搞定-iconfont)
   - [什么是 IconFont](#什么是-iconfont)
   - [IconFont 的背景](#iconfont-出现的背景)
-  		- [WebFont](#Webfont)
-  		- [Images](#Images)
-  		- [CSS Sprites](#CSS-Sprites)
-  		- [IconFont](#IconFont)
+    - [WebFont](#Webfont)
+    - [Images](#Images)
+    - [CSS Sprites](#CSS-Sprites)
+    - [IconFont](#IconFont)
   - [IconFont 原理](IconFont-原理)
   - [IconFont 的优缺点](#iconfont-的优缺点)
-    	- [优点](#优点)
-    	- [不足](#不足)
+    - [优点](#优点)
+    - [不足](#不足)
   - [快速使用现有的 IconFont](#快速使用现有的-iconfont)
   - [创建自己的 IconFont](#创建自己的-iconfont)
-  		- [使用软件生成](#使用软件生成)
-    	- [使用网站生成](#使用网站生成)
-    	- [使用脚本生成](#使用脚本生成)
-    	- [.ttf、.eot、.woff 等字体文件](#ttfeotwoff-等字体文件)
+    - [使用软件生成](#使用软件生成)
+    - [使用网站生成](#使用网站生成)
+    - [使用脚本生成](#使用脚本生成)
+    - [.ttf、.eot、.woff 等字体文件](#ttfeotwoff-等字体文件)
   - [Reference](#Reference)
-
-<!-- /TOC -->
 
 ## 什么是 IconFont
 
